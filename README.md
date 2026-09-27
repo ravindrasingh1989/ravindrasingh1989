@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Ravindra Singh 👋
 
-<!--
-**ravindrasingh1989/ravindrasingh1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate programmer exploring Python automation, AI workflows, and data tools. Constantly learning, experimenting with scripts, and building useful utilities.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Exploring & Building
+- 🐍 **Python Automation:** Scripts to automate everyday desktop workflows and system management.
+- 🤖 **AI & Local LLMs:** Experimenting with local model setups, prompts, and retrieval systems.
+- 📊 **Data & Utilities:** Building clean scripts to analyze data patterns and track metrics.
+
+---
+
+### 🛠 Tech & Tools
+- **Languages:** Python, Bash, SQL
+- **Frameworks & Libs:** Pandas, Matplotlib, Requests
+- **Tools:** Git, GitHub, VS Code, Linux
+
+---
+
+### 📈 GitHub Stats
+![Ravindra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravindrasingh1989&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravindrasingh1989&layout=compact&theme=radical)
+
+---
+
+### 🤝 Connect With Me
+Feel free to check out my repositories or reach out for collaborations!
